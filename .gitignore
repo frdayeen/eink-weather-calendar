@@ -1,0 +1,14 @@
+# Your Wi-Fi details: never commit these
+secrets.py
+
+# Files the frame writes while running
+state.json
+battery.json
+weather_fails.txt
+*.part
+
+# Mac and Python clutter
+.DS_Store
+._*
+__pycache__/
+*.pyc
